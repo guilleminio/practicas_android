@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Practica Room</string>
+
+    <!-- Crear Cuenta -->
+    <string name="titulo_crear_cuenta">Registrate</string>
+    <string name="descripcion_crear_cuenta">Crea una cuenta para poder acceder a todos los servicios</string>
+    <string name="boton_crear_cuenta">Crear cuenta</string>
+    <!-- Fin Crear Cuenta -->
+
+    <!-- Formulario usuario -->
+    <string name="usuario">Nombre usuario</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="contrasenia">Contrasenia</string>
+    <string name="formato_usuario">El nombre de usuario no puede contener caracteres especiales ni espacio en blanco. Como máximo podrá contener 10 caracteres.</string>
+    <string name="formato_contrasenia">La contrasenia debe ser entre 8 y 16 caracteres, contener al menos una letra mayúscula, un dígito y un caracter especial.</string>
+
+    <string name="mensaje_completar_usuario">Debes indiciar un nombre de usuario</string>
+    <string name="mensaje_completar_correo">Debes indicar un correo electrónico</string>
+    <string name="mensaje_completar_contrasenia">Debes indicar una contrasenia</string>
+    <string name="mensaje_formato_invalido_usuario">El formato de nombre de usuario es inválido</string>
+    <string name="mensaje_formato_invalido_correo">El formato de correo electrónico es inválido</string>
+    <string name="mensaje_formato_invalido_contrasenia">El formato de contrasenia es invalido</string>
+
+    <string name="mensaje_formulario_incompleto">Uno o mas campos del formulario están vacíos.</string>
+
+    <string name="mensaje_usuario_existente">Ya existe un usuario con ese nombre</string>
+    <string name="mensaje_correo_existente">Ya existe un usuario con ese correo electrónico</string>
+    <!-- Fin formulario usuario -->
+
+    <!-- Iniciar sesion -->
+
+    <!-- Fin Iniciar Sesion -->
+
+    <!-- Datos Usuario -->
+    <string name="datos_usuario_titulo">Mis datos</string>
+    <!-- Fin datos usuario -->
+
+    <!--  Cuadro de Dialogo -->
+    <string name="dialogo_titulo_advertencia">Atención!</string>
+    <string name="dialogo_boton_positivo">Aceptar</string>
+    <!-- Fin  cuadro de dialogos -->
+
+</resources>
