@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CRUD room</string>
+
+    <string name="button_explore_products">Explore products</string>
+    <string name="button_new_product">New product</string>
+
+    <string name="products_title">Products</string>
+    <string name="products_button_edit">Edit</string>
+    <string name="products_button_delete">Delete</string>
+    <string name="products_add">Add product</string>
+
+    <string name="product_detail_title_new">New product</string>
+    <string name="product_detail_title_edit">Edit product</string>
+    <string name="product_detail_message_new">Complete the form with the product characteristics</string>
+    <string name="product_detail_message_edit">Edit the form fields with the product characteristics.</string>
+    <string name="product_name">Name:</string>
+    <string name="product_descripction">Description:</string>
+    <string name="product_price">Price:</string>
+    <string name="product_category">Category:</string>
+    <string name="product_create">Create</string>
+    <string name="product_confirm_changes">Confirm changes</string>
+
+    <string name="dialog_title_form_incomplete">Attention!</string>
+    <string name="dialog_message_form_incomplete">Some form fields are empty. You must complete them.</string>
+    <string name="dialog_message_confirm_delete">Are you sure to delete this product?</string>
+    <string name="dialog_message_doubt">Are you sure?</string>
+    <string name="dialog_button_confirm">Confirm</string>
+    <string name="dialog_button_acept">Acept</string>
+
+    <string name="dialog_new_product_created">You\'ve created a new product successfully!</string>
+    <string name="dialog_product_edited">You\'ve edited a product successfully!</string>
+
+    <string name="button_cancel">Cancel</string>
+</resources>
