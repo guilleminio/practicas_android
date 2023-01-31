@@ -162,6 +162,7 @@ public class UIProductDetail extends UICustom implements AdapterView.OnItemSelec
 
             mEditProductName.setText(mController.getmEditableProduct().getmName());
             mEditProductDescription.setText(mController.getmEditableProduct().getmDescription());
+            mEditProductPrice.setText(String.valueOf(mController.getmEditableProduct().getmPrice()));
             mSpinnerCategories.setSelection(mController.getmEditableProduct().getmCategory()-1);
 
         }else{
